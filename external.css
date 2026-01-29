@@ -1,0 +1,62 @@
+body{
+    background-color:burlywood
+}
+
+div{
+    text-align: center;
+    background-color:azure;height: 100px;
+    font-size: 25px;
+    border-radius: 20px;
+}
+
+
+h1{
+    text-align: center;
+
+}
+
+
+ol{
+    font-size: 25px;
+}
+
+
+#firstp{
+    text-align: center;
+    border-radius: 20px;
+    font-size: 20px;
+    color:blueviolet;
+}
+
+
+#secondp{
+    text-align: center;
+    border-radius: 20px;
+    font-size: 20px;
+    color: blue;
+}
+
+
+#thirdp{
+    text-align: center;
+    border-radius: 20px;
+    font-size: 20px;
+    color: red;
+}
+
+
+#fourthp{
+    text-align: center;
+    border-radius: 20px;
+    font-size: 20px;
+    color:brown;
+}
+
+
+
+index
+photo
+footer,header
+explanations
+about,skill,experience
+mystyle.css
